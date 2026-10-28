@@ -4,8 +4,17 @@
 
 ** What I learned **
 
+This week, we had an introduction to physical computing and Arduino. 
+We learned:
+  - difference between microcontrollers (like Arduino) and computer (like Rasperry Pi)
+  - how to read basic schematic & identify anode and cathode of an LED 
+  - in general how to use a breadboard 
+  - first C++ code 
+  - build a circuit with 220 resistor and an LED (tried to make it turn off and on) 
+
 ** What I struggled with **
 
+I have to get used to the new programming language C++ and remember to alway add the semicolon.
 
 
 # Week 2: Tech Basics II
@@ -14,8 +23,16 @@
 
 ** What I learned **
 
-** What I struggled with **
+  - how to read resistor color codes 
+    - why we use a 220 resistor -> to limit current for LEDs
+  - always use colorful or red wires for positive and black for ground
+  - learned about ohm's law 
+  - buiding series and parallel circuits -> helped to get used to connect components to the breadboard 
+  - programmed traffic light 
+  -  learned that RGB LED need three separate resistors and how to mix colors 
 
+** What I struggled with **
+  - The coding (the challenges) where difficult for me, but I will work on that 
 
 # Week 3: Tech Basics II
 
