@@ -34,11 +34,26 @@ I have to get used to the new programming language C++ and remember to alway add
 ** What I struggled with **
   - The coding (the challenges) where difficult for me, but I will work on that 
 
+
 # Week 3: Tech Basics II
 
 27.10.
 
 ** What I learned **
 
+  - learned more about the arduino pins (e.g. avoid pins 0 and 1 so I don't mess up the code uploading process)
+  - used PWM to simulate analog power by switching signal on and off (create fading effect)
+  - digital inputs -> INPUT_PULLUP activates internal resistors to prevent random readings from floating pins
+  - used Potentiometer to read analog values and to dim an LED 
+  - We used a light dependent resistor to read light levels
+
 ** What I struggled with **
+
+  - to connect the LED in the last exercise was difficult for me. I had problems figuring out how to connect it in the circuit 
+
+
+
+
+
+
 
