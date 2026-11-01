@@ -1,6 +1,4 @@
-# Week 1: Tech Basics II
-
-13.10.
+# Week 1: Tech Basics II 13.10.
 
 ## What I learned 
 
@@ -17,9 +15,7 @@ We learned:
 I have to get used to the new programming language C++ and remember to alway add the semicolon.
 
 
-# Week 2: Tech Basics II
-
-20.10.
+# Week 2: Tech Basics II 20.10.
 
 ## What I learned 
 
@@ -35,9 +31,7 @@ I have to get used to the new programming language C++ and remember to alway add
   - The coding (the challenges) where difficult for me, but I will work on that 
 
 
-# Week 3: Tech Basics II
-
-27.10.
+# Week 3: Tech Basics II 27.10.
 
 ## What I learned 
 
