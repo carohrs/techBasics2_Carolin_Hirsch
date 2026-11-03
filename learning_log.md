@@ -15,6 +15,7 @@ We learned:
 I have to get used to the new programming language C++ and remember to alway add the semicolon.
 
 
+
 # Week 2: Tech Basics II 20.10.
 
 ## What I learned 
@@ -29,6 +30,7 @@ I have to get used to the new programming language C++ and remember to alway add
 
 ## What I struggled with 
   - The coding (the challenges) where difficult for me, but I will work on that 
+
 
 
 # Week 3: Tech Basics II 27.10.
@@ -46,6 +48,26 @@ I have to get used to the new programming language C++ and remember to alway add
   - to connect the LED in the last exercise was difficult for me. I had problems figuring out how to connect it in the circuit 
 
 
+
+# Week 4: Tech Basics II 03.11.
+
+## What I learned 
+
+Buzzers & Sound
+  - we learned about the use from a active and passive Buzzer
+  - downloaded a new library to play different frequencies and melodies
+Distance Sensore
+  - worked with Ultrasonic Sensor, it measures distance by sending ultrasonic waves and calculating the time until the echo returns
+  - used a buzzer to build a proximity alarm (like the car parking sensor)
+Push Buttons
+  - connected buttons using pull-down and pull-up
+
+
+## What I struggled with 
+
+  - connect the positive buzzer and make it beep in Exercise 3
+  - struggling basically with the right pins, but it gets better every time
+    -> mostly its a careless mistake (Flüchtigkeitsfehler) because I try to be fast enough
 
 
 
